@@ -1,2 +1,2 @@
-# vagrant-ansible
-Sample VM provisioning using vagrant and ansible
+# vagrant-locustio
+Sample VM provisioning using vagrant and locustio
