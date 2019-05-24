@@ -4,7 +4,7 @@ from random import randint
 
 class MyTaskSet(TaskSet):
     username = "api"
-    password = "b095754f02442701de2ca86a808ac97b"
+    password = "5b8ee56cf2d2635644a19ff1ba01d6f1"
 
     users_list = ["test-event-property@someemail.com", "eb_transactional_campaign@email.com", "user2@test.com"]
     users_count = users_list.__len__()
