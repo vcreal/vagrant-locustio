@@ -6,7 +6,7 @@ class MyTaskSet(TaskSet):
     username = "api"
     password = "5b8ee56cf2d2635644a19ff1ba01d6f1"
 
-    users_list = ["test-event-property@someemail.com", "eb_transactional_campaign@email.com", "user2@test.com"]
+    users_list = ["user3@test.com", "user1@test.com", "user2@test.com"]
     users_count = users_list.__len__()
     order_list = [[], [], []]
 
